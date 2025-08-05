@@ -23,7 +23,7 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Paul Alberts",
-    specialty: "Storyteller Turned Strategist in Public Safety",
+    specialty: "Storyteller Turned Leader in Public Safety",
     summary:
       "Crafting Stories. Coordinating Emergencies. Leading with Meaning.",
     email: "paul@paulalberts.com",
