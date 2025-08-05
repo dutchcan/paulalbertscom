@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Paul Alberts",
   author: "Paul Alberts",
   description:
-    "Crafting Stories. Coordinating Emergencies. Leading with Meaning..",
+    "Crafting Stories. Coordinating Emergencies. Leading with Meaning.",
   lang: "en",
   siteLogo: "/paul-small.jpg",
   navLinks: [
@@ -22,18 +22,17 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Paul Alberts",
+    specialty: "Strategic Thinker at the Intersection of Storytelling and Public Safety",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Crafting Stories. Coordinating Emergencies. Leading with Meaning.",
+    email: "paul@paulalberts.com",
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "BCEHS",
+      position: "Opertaions Manager",
+      startDate: "August 2016",
       summary: [
         "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
         "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
@@ -66,20 +65,6 @@ export const SITE_CONTENT: SiteContent = {
       linkPreview: "/",
       linkSource: "https://github.com/immois/astro-zen",
       image: "/spotifu.png",
-    },
-    {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
-    },
-    {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
     },
   ],
   about: {
