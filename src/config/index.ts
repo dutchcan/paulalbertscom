@@ -40,7 +40,17 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Bankit",
+      company: "Ardor Media",
+      position: "Mobile Developer",
+      startDate: "Feb 2017",
+      endDate: "May 2018",
+      summary: [
+        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
+        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+      ],
+    },
+        {
+      company: "Tourism Prince George",
       position: "Mobile Developer",
       startDate: "Feb 2017",
       endDate: "May 2018",
@@ -50,7 +60,7 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Driveer",
+      company: "City of Prince George",
       position: "Frontend Developer",
       startDate: "Jun 2015",
       endDate: "Oct 2016",
