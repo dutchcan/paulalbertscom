@@ -31,18 +31,18 @@ export const SITE_CONTENT: SiteContent = {
   experience: [
     {
       company: "BCEHS",
-      position: "Opertaions Manager",
+      position: "Operations Manager",
       startDate: "August 2016",
       endDate: "Present",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
+        "Operations Manager with frontline experience as a Paramedic, Dispatcher, and Acting Charge Supervisor.",
+        "Leads complex dispatch operations and fosters continuous improvement in emergency services.",
+        "Known for clear communication, team leadership, and patient-focused decision-making.",
       ],
     },
     {
       company: "Ardor Media",
-      position: "Mobile Developer",
+      position: "Sole Proprietor",
       startDate: "Feb 2017",
       endDate: "Present",
       summary: [
@@ -67,15 +67,6 @@ export const SITE_CONTENT: SiteContent = {
       endDate: "Oct 2016",
       summary:
         "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
-    },
-  ],
-  projects: [
-    {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
     },
   ],
   about: {
