@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Visual storytelling. Emergency coordination. Purposeful leadership. Relentless innovation.",
   lang: "en",
-  siteLogo: "/paulalberts-small.png",
+  siteLogo: "/paulalberts_small.png",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -30,7 +30,7 @@ export const SITE_CONTENT: SiteContent = {
   },
   experience: [
     {
-      company: "BC Emergency Health Services",
+      company: "British Columbia Emergency Health Services",
       position: "Operations Manager",
       startDate: "2016",
       endDate: "Present",
@@ -39,22 +39,21 @@ export const SITE_CONTENT: SiteContent = {
   ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "Ardor Media",
+      position: "Sole Proprietor",
+      startDate: "2007",
+      endDate: "Present",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
-      ],
+        "",
+     ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
+      company: "Tourism Prince George",
+      position: "Community Multimedia Coordinator",
+      startDate: "2013",
+      endDate: "2015",
       summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+        "",
     },
   ],
   projects: [
