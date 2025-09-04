@@ -57,15 +57,6 @@ export const SITE_CONTENT: SiteContent = {
         "",
     },
 
-        {
-      company: "City of Prince George",
-      position: "Multimedia Coordinator",
-      startDate: "2008",
-      endDate: "2012",
-      summary:
-        "",
-    },
-    
   ],
   projects: [
     {
