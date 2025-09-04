@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Paul Alberts",
   author: "Paul Alberts",
   description:
-    "Crafting Stories. Coordinating Emergencies. Leading with Meaning..",
+    "Visual storytelling. Emergency coordination. Purposeful leadership. Relentless innovation.",
   lang: "en",
   siteLogo: "/paul-small.jpg",
   navLinks: [
