@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Visual storytelling. Emergency coordination. Purposeful leadership. Relentless innovation.",
   lang: "en",
-  siteLogo: "/paul-small.jpg",
+  siteLogo: "/paulalberts-small.png",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -30,15 +30,13 @@ export const SITE_CONTENT: SiteContent = {
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "BC Emergency Health Services",
+      position: "Operations Manager",
+      startDate: "2016",
+      endDate: "Present",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
-      ],
+        "",
+  ],
     },
     {
       company: "Bankit",
@@ -86,7 +84,7 @@ export const SITE_CONTENT: SiteContent = {
     description: `After spending nearly 30 years in Northern British Columbia—where I was born, raised, and built a fulfilling career producing media and multimedia content across sectors including municipal government, health care, post-secondary education, economic development, and tourism—I wrapped up my time in the region with a milestone role in the 2015 Prince George Canada Winter Games. The Games gave me the opportunity to showcase the community on a national stage through a range of visual media, including national television commercials, broadcast footage, and digital content. 
     
     Leaving the industry on a high note, I was inspired to further serve the community and follow my growing interest in public service and public safety. I shifted into Emergency Medical Services, starting on the frontlines as a Paramedic and later moving into a communications role as a Dispatcher. I’ve since transitioned into a leadership position, where I now lead a team of over 100 professionals who save lives every day—over the phone.`,
-    image: "/alejandro-big.jpg",
+    image: "/paulalberts.jpg",
   },
 };
 
