@@ -1,12 +1,12 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Alejandro Múnez — Mobile & Web Developer",
-  author: "Alejandro Múnez Cuntez",
+  title: "Paul Alberts",
+  author: "Paul Alberts",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "Visual storytelling. Emergency coordination. Purposeful leadership. Relentless innovation.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/paulalberts-small.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -25,10 +25,10 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Paul Alberts",
+    specialty: "From Communications to Leadership on the Frontlines of Public Safety.",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+      "Visual storytelling. Emergency coordination. Purposeful leadership. Relentless innovation."",
     email: "example@email.com",
   },
   experience: [
