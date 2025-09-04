@@ -60,8 +60,7 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Compass911",
       summary: "A simple, secure web tool that helps people in emergencies share their exact location with 911 services and those services to request it quickly where technology gaps continue to exists.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkPreview: "http://compass911.com",
       image: "/compass911.png",
     },
   ],
