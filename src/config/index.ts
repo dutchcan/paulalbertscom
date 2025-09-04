@@ -17,16 +17,16 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Youtube", href: "https://youtube.com/paulalberts" },
   ],
   socialImage: "/zen-og.png",
-  canonicalURL: "https://astro-zen.vercel.app",
+  canonicalURL: "https://paulalberts.com",
 };
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Paul Alberts",
+    specialty: "From Communications to Leadership on the Frontlines of Public Safety.",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Visual storytelling. Emergency coordination. Purposeful leadership. Relentless innovation.",
+    email: "paul@paulalberts.com",
   },
   experience: [
     {
