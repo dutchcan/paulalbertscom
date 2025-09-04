@@ -47,6 +47,7 @@ export const SITE_CONTENT: SiteContent = {
         "",
      ],
     },
+    
     {
       company: "Tourism Prince George",
       position: "Community Multimedia Coordinator",
@@ -55,6 +56,16 @@ export const SITE_CONTENT: SiteContent = {
       summary:
         "",
     },
+
+        {
+      company: "City of Prince George",
+      position: "Multimedia Coordinator",
+      startDate: "2008",
+      endDate: "2012",
+      summary:
+        "",
+    },
+    
   ],
   projects: [
     {
