@@ -13,7 +13,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "LinkedIn", href: "https://linkedin.com/paulalberts" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/paulalberts/" },
     { text: "Youtube", href: "https://youtube.com/paulalberts" },
   ],
   socialImage: "/zen-og.png",
@@ -48,6 +48,34 @@ export const SITE_CONTENT: SiteContent = {
      ],
     },
     
+    {
+      company: "Tourism Prince George",
+      position: "Community Multimedia Coordinator",
+      startDate: "2013",
+      endDate: "2015",
+      summary:
+        "",
+    },
+
+    {
+      company: "Tourism Prince George",
+      position: "Community Multimedia Coordinator",
+      startDate: "2013",
+      endDate: "2015",
+      summary:
+        "",
+    },
+
+
+    {
+      company: "Tourism Prince George",
+      position: "Community Multimedia Coordinator",
+      startDate: "2013",
+      endDate: "2015",
+      summary:
+        "",
+    },
+
     {
       company: "Tourism Prince George",
       position: "Community Multimedia Coordinator",
