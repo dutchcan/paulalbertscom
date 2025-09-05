@@ -48,39 +48,21 @@ export const SITE_CONTENT: SiteContent = {
      ],
     },
     
+
     {
-      company: "Tourism Prince George",
-      position: "Community Multimedia Coordinator",
-      startDate: "2013",
-      endDate: "2015",
+      company: "City of Prince George",
+      position: "Multimedia Coordinator",
+      startDate: "2008",
+      endDate: "2012",
       summary:
         "",
     },
 
     {
-      company: "Tourism Prince George",
-      position: "Community Multimedia Coordinator",
-      startDate: "2013",
-      endDate: "2015",
-      summary:
-        "",
-    },
-
-
-    {
-      company: "Tourism Prince George",
-      position: "Community Multimedia Coordinator",
-      startDate: "2013",
-      endDate: "2015",
-      summary:
-        "",
-    },
-
-    {
-      company: "Tourism Prince George",
-      position: "Community Multimedia Coordinator",
-      startDate: "2013",
-      endDate: "2015",
+      company: "Pattison Media",
+      position: "Writer/Producer/Editor",
+      startDate: "2007",
+      endDate: "2009",
       summary:
         "",
     },
